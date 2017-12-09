@@ -1,7 +1,0 @@
-spring :
-   datasource:
-    platform: MySQL
-    url: jdbc:mysql://localhost:1977/root
-    username: root
-    password: Javathread@123
-    
